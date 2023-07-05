@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">nim</string>
+
+    <string-array name="option_array">
+        <item>Jelajahi</item>
+        <item>Hubungi</item>
+        <item>Baca Data</item>
+        <item>Cek Posisi</item>
+    </string-array>
 </resources>
